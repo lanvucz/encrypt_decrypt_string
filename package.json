@@ -1,0 +1,13 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "description": "Script helper to generate private and public key",
+  "license": "Free",
+  "author": "tiengdonhoarira",
+  "engines": {
+    "node": ">=10.19.0"
+  },
+  "dependencies": {
+    "node-forge": "^0.7.6"
+  }
+}
